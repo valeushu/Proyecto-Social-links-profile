@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/image-readme/image-app-social-profile.jpeg)
+![](/images/image-app-social-profile.jpeg)
 
 
 ### Links
